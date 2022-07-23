@@ -1,9 +1,9 @@
 ---
-toc: true
+toc: false
 layout: post
 categories: [Typesense]
 title: "Beginner Level Topics Typesense"
-comments: true
+comments: false
 hidden: true
 permalink: /beginner-level-typesense/
 ---
