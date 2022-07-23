@@ -1,1 +1,1 @@
-Sitemap: https://aviyelverse.github.io/Article-topics-selection/sitemap.xml
+Sitemap: https://aviyelverse.github.io/sitemap.xml
