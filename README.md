@@ -9,6 +9,6 @@
 <img src="https://user-images.githubusercontent.com/37651620/180591745-ccb75e01-1b9f-415a-85b2-0d5223fccb87.png"/>
 </p>
 
- <h2 align="center"><a href="https://aviyel-blogs.netlify.app/">https://aviyel-blogs.netlify.app/</a></h2>
+ <h2 align="center"><a href="https://aviyelverse.github.io/Article-topics-selection/">https://aviyelverse.github.io/Article-topics-selection/</a></h2>
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
