@@ -2,11 +2,11 @@
 toc: false
 layout: post
 description: "Lightning-fast, Open Source Search. No PhD required"
-categories: [Typesense]
-title: "Typesense"
-image: images/Typesense.png
+categories: [Slicknode]
+title: "Slicknode"
+image: images/Slicknode.png
 comments: false
-sticky_rank: 18
+sticky_rank: 21
 ---
 
 <button class="back-button" onclick="window.history.back()"><< Back</button>
@@ -21,7 +21,7 @@ sticky_rank: 18
                <div class="card-body d-flex">
                   <div class="mb-2 text-success-gradiant icon-size">B</div>
                   <div class="">
-                     <h5 class="font-weight-medium"><a href="/Article-topics-selection/beginner-level-typesense" class="linking">eginner level topics.</a></h5>
+                     <h5 class="font-weight-medium"><a href="" class="linking">eginner level topics.</a></h5>
                   </div>
                </div>
             </div>
