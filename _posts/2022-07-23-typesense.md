@@ -21,7 +21,7 @@ sticky_rank: 1
                <div class="card-body d-flex">
                   <div class="mb-2 text-success-gradiant icon-size">B</div>
                   <div class="">
-                     <h5 class="font-weight-medium"><a href="http://0.0.0.0:4000/beginner-level-typesense/" class="linking">eginner level topics.</a></h5>
+                     <h5 class="font-weight-medium"><a href="/beginner-level-typesense" class="linking">eginner level topics.</a></h5>
                   </div>
                </div>
             </div>
@@ -33,7 +33,7 @@ sticky_rank: 1
                <div class="card-body d-flex">
                   <div class="mb-2 text-success-gradiant icon-size">I</div>
                   <div class="">
-                     <h5 class="font-weight-medium"><a href="" class="linking">ntermediate level topics.</a></h5>
+                     <h5 class="font-weight-medium"><a href="/kk" class="linking">ntermediate level topics.</a></h5>
                   </div>
                </div>
             </div>
