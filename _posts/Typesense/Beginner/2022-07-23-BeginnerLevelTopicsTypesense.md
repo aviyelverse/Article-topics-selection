@@ -14,4 +14,4 @@ permalink: /beginner-level-typesense/
 <br>
 
 <ul>
-<li><h3><a href="">What is Typesense? [Available]</a></h3>
+<li><h3><a href="/Article-topics-selection/what-is-typesense/">What is Typesense? [Available?]</a></h3>
