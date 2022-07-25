@@ -4,7 +4,7 @@ layout: post
 description: "Automation-co"
 categories: [AutomationCo]
 title: "Automation-co"
-image: images/AutomationCo.png
+image: images/Automationco.png
 comments: false
 sticky_rank: 7
 ---

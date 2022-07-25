@@ -4,7 +4,7 @@ layout: post
 description: "Cake Cutter"
 categories: [CakeCutter]
 title: "Cake Cutter"
-image: images/CakeCutter.png
+image: images/Cakecutter.png
 comments: false
 sticky_rank: 4
 ---

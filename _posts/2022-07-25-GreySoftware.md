@@ -4,7 +4,7 @@ layout: post
 description: "GreySoftware"
 categories: [GreySoftware]
 title: "Grey Software"
-image: images/GreySoftware.png
+image: images/Greysoftware.png
 comments: false
 sticky_rank: 6
 ---
